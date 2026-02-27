@@ -29,4 +29,3 @@ pip freeze > requirements.txt
 
 ---
 
-Questions? Check the official Python documentation or contact the project maintainer.
